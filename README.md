@@ -45,6 +45,7 @@ To get this project up and running locally on your machine, follow these steps:
 <body>
     <button>Get Cat Fact</button>
     <p id="result"></p>
+       <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
 
     <script src="script.js"></script>
 </body>
